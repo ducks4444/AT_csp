@@ -6,7 +6,13 @@
     # 1.Variables/pieaces of info needed 2. process info 3. provide output
 
 #list all of the different mathematical operators
-    # +, -, /, *
+    # +, -, /, *, **, //, %, /
+
+#list all of the different assignment operators
+    # =, 
+#interger is a whole number, a float is a decimal 
+#why are expressions so important in programming?
+    #because everything in programming is math and it is much more efficient for coding, long term makes things easier
 
     
 name = input("What is your name?")
@@ -36,3 +42,6 @@ print("subtraction:", num_one - num_two)
 print("exponets:", num_one ** num_two)
 print("integer division:", num_one // num_two)
 print("modulo (remainder): ", num_one % num_two)
+print("(3*5**2/15))-(5-2**2)=",(3*5**2/15)-(5-2**2))
+num_one = float(input("Give me a number:/n"))
+num_two = int(input("Give me a number:/"))
