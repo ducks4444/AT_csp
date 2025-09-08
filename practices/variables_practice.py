@@ -1,18 +1,20 @@
 # AT 6th Variables Practice
-name=input("what is your name")
+name=input("what is your name: ")
 
-name=input("a number between 1 and ten")
+random_number=input("a number between 1 and 10: ")
 
-name=input("what did you have for breakfeast")
+breakfast=input("what did you have for breakfast: ")
 
-name=input("whats your favorite color")
+favorite_color=input("whats your favorite color: ")
 
-name=input("the school name")
+school_name=input("the school name: ")
 
-name=input("the year")
+year=input("the year: ")
 
-name=input("your eye color")
+eye_color=input("your eye color: ")
 
-name=input("your age")
+age=input("your age: ")
 
-name=input("your favortie subject in school")
+favorite_subject=input("your favorite subject in school: ")
+
+print("Hello, your name is {}, the number you picked is {}, you had {} for breakfast, your favorite color is {}, you go to {} school, you are in {} year, your eye color is {}, and you are {} years old.".format(name, random_number, breakfast, favorite_color, school_name, year, eye_color, age))
