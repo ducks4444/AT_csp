@@ -6,9 +6,9 @@ print("i did it!")
 # 1 what makes something a string
 #   a collection of symbols that are held togehter by quotation marks
 # 2 why do we have strings
-#   
+#   they are primary things we use to repersent text and code
 # 3 how do we stupid proofing and santization relate to eachother?
-
+#   they both make sure that the user inputs the right thing
 # 4 what is debugging
 #   Debugging is fixing problems in my code
     # syntax error
@@ -18,11 +18,11 @@ print("i did it!")
     # Run-time error
     # when there is a problem in the code that will break when it tries to run
 # 5 how do you debug the different types of errors
-    #
+    #look in the errors i put above and double check for any of those errors that might occur in code
 # a bug is any error in the code that keeps the code from running properly
     #you need to double check over code and look for, syntax, logic, or a runtime error
 # 6 describe what each method below does
-    # strip get rids of any extra spaces the user puts at the end or start of string
+    # strip get rids of any extra spaces the user puts at the end or start of string, lower makes any input all lowercase, upper makes any word that is put into code uppercase, concatenate is putting two strings together, find is looking for a specific string inside of another string
 name = input("what is your name?:/n").strip().lower().upper()
 
 sentence = "The quick brown fox jumps over the lazy dog"
