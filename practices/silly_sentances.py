@@ -1,3 +1,4 @@
+# AT 6th silly sentances
 name=input("what is your name  ")
 animal1=input("name a type of animal")
 limb=input("name a type of body limb")
