@@ -1,6 +1,6 @@
 # AT what time is it practice
 
-time=int(input("what time is it in militart time?:\n"))
+time=int(input("what time is it in military time?:\n"))
 
 if time < 11:
     print(f" its {time} good morning")
