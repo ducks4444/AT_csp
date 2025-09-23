@@ -4,7 +4,7 @@
 # 2 what are the two types of loops
     # four loops, while loops
 # 3 what is itertioin
-    # how many times a loop has run
+    # how many times a loop has run, one instance of a loop
 # 4 what are lists 
     #they allow you to store multiple pieaces of information within the same thing of code
 #5 how do you make lists in python
