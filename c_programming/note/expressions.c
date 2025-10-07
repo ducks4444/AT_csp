@@ -9,11 +9,11 @@
 // what is the modulus operator, and how is it used
     // it is a modulo operator and it is used as a remainder
 //how do you round a float to the nearest interger in C
-    //
+    // add float to your code examples are shown below
 // what type is casting in C? provide an example
     //cast is specifilly starting the data type example down below
 //how do compound assignment operators work in C, list three examples
-    //
+    //moudulo, addition, subtraction
 //what is the purpose of math.h libary
     // it provides math symbols in code and how to preform those things
 //what happens when you mix a interger and float operations in C?
