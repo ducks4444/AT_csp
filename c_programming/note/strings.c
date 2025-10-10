@@ -5,12 +5,13 @@
 // what types of quotation marks do we need for a string
     // double quotes ""
 // what libary do we need to include to access the string functions in c?
-    //
+    // string.h
 // list functions the libary allows us to use
     // string.h, get the length of string
 // how do we concentrate strings in C?
-    //
+    // strcat()
 // how do we get indivuial charecters from a string in C?
+    // using indexs []
 
 
 #include <stdio.h>
